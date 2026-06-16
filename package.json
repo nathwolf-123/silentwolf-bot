@@ -1,0 +1,22 @@
+{
+  "name": "silentwolf",
+  "version": "1.0.0",
+  "description": "base bot whatsapp simple fast silentwolf",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "silentkana",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "baileys": "^7.0.0-rc10",
+    "chalk": "^5.6.2",
+    "chokidar": "^5.0.0",
+    "dotenv": "^17.4.2",
+    "file-type": "^21.3.0",
+    "pino": "^8.16.1",
+    "pretty-error": "^4.0.0"
+  }
+}
